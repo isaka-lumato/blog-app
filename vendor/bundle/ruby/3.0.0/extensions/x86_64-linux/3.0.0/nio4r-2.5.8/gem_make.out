@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/nio4r-2.5.8/ext/nio4r
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-137640-ek71p8.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-ekgyyx.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for linux/io_uring.h... yes
@@ -106,4 +106,4 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/nio4r-2.5.8/ext/nio4r
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20220128-137640-qgiqpi
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20220128-140329-d522pi
