@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-icq8u7.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-300078-bde8o4.rb extconf.rb
 creating Makefile
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
@@ -13,4 +13,4 @@ linking shared-object debug/debug.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 debug.so ./.gem.20220128-140329-ndk4j/debug
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220129-300078-xnibk4/debug

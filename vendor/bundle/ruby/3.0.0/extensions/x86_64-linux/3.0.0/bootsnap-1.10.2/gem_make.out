@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-54txrp.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-300078-732cmx.rb extconf.rb
 creating Makefile
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.2/ext/bootsnap
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220128-140329-5sql6d/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220129-300078-lt9bdt/bootsnap
