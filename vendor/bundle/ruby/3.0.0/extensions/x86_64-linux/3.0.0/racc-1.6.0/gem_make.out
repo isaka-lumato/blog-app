@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-137640-2gtudt.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-n0vymy.rb extconf.rb
 checking for rb_block_call()... yes
 checking for rb_ary_subseq()... yes
 creating Makefile
@@ -14,4 +14,4 @@ linking shared-object racc/cparse.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 cparse.so ./.gem.20220128-137640-gh298p/racc
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220128-140329-fs4sa/racc

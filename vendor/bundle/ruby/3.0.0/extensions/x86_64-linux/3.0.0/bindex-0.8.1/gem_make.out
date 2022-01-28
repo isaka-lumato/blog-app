@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-137640-ct1cja.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-9c13r7.rb extconf.rb
 creating Makefile
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
@@ -12,4 +12,4 @@ linking shared-object skiptrace/internal/cruby.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 cruby.so ./.gem.20220128-137640-bmn1jx/skiptrace/internal
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20220128-140329-xrfn8l/skiptrace/internal
