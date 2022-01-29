@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/pg-1.3.0/ext
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-300078-vlw8bm.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-303235-d620vj.rb extconf.rb
 Calling libpq with GVL unlocked
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
@@ -54,5 +54,5 @@ linking shared-object pg_ext.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/pg-1.3.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20220129-300078-o90nw4
+/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20220129-303235-9oynt5
 installing pg_ext libraries

@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-300078-yjqb2k.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-303235-tm9uoe.rb extconf.rb
 checking for rb_io_wait()... yes
 checking for sys/ioctl.h... yes
 checking for FIONREAD in sys/ioctl.h,sys/ioctl.h... yes
@@ -15,4 +15,4 @@ linking shared-object io/wait.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 wait.so ./.gem.20220129-300078-x71z3e/io
+/usr/bin/install -c -m 0755 wait.so ./.gem.20220129-303235-h8u6f4/io
