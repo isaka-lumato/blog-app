@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.1/ext/puma_http11
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-2urj8k.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-303235-6b2i1w.rb extconf.rb
 using OpenSSL pkgconfig (openssl.pc)
 checking for openssl/bio.h... yes
 checking for DTLS_method() in openssl/ssl.h... yes
@@ -23,4 +23,4 @@ linking shared-object puma/puma_http11.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/puma-5.6.1/ext/puma_http11
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20220128-140329-vn3kni/puma
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20220129-303235-e4jwtp/puma

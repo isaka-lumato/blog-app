@@ -1,5 +1,5 @@
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.4/ext/msgpack
-/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220128-140329-aqa1wu.rb extconf.rb
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220129-303235-j58gpu.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... no
 checking for rb_enc_interned_str() in ruby.h... yes
@@ -78,4 +78,4 @@ linking shared-object msgpack/msgpack.so
 
 current directory: /home/isaka/blog-app/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.4/ext/msgpack
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 msgpack.so ./.gem.20220128-140329-somrc4/msgpack
+/usr/bin/install -c -m 0755 msgpack.so ./.gem.20220129-303235-87tp3u/msgpack
