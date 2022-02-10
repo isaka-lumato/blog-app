@@ -3,7 +3,7 @@ class Post < ApplicationRecord
   has_many :comments
   has_many :likes
 
-  def self.update_counter(parameters)
+  def update_counter(parameters)
     @user = User.all.find(parameters)
     @user.update(posts_counter: posts_counter + 1)
   end
