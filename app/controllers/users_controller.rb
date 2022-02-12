@@ -1,10 +1,11 @@
 class UsersController < ApplicationController
   def index
-    @user = User.all
+    @users = User.all
   end
 
   def show
-    @user = User.find(params[:id])
-    @recent_posts = Post.limit(3).where(author_id: params[:id]).order(created_at: :desc)
+@user = User.find(params[:id])
+@total_posts = @user.posts.count
+@recent_posts = @user.posts.limit(3).order(created_at: :desc)
   end
 end
