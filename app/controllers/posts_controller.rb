@@ -1,6 +1,6 @@
 class PostsController < ApplicationController
   def index
-    @user = User.all.find(params[:user_id])
+    @users = User.all.find(params[:user_id])
     @posts = []
     @comments = Comment.all
     @likes = Like.all
@@ -10,7 +10,7 @@ class PostsController < ApplicationController
   end
 
   def show
-    @user = User.all.find(params[:user_id])
+    @users = User.all.find(params[:user_id])
     @users = User.all
     @post = Post.find_by(author: params[:user_id], id: params[:id])
     @recent_comments = Post.limit(3).where(author_id: params[:id]).order(created_at: :desc)

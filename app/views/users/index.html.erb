@@ -1,7 +1,7 @@
 <div class="page-container">
 <h1 class="text-align-center">Users</h1>
 <ul>
-  <% @user.each do |user| %>
+  <% @users.each do |user| %>
     <li class="background-color-aliceblue">
       <%= link_to "#{root_path}users/#{user.id}", class: "text-decoration-none" do %>
       <div class="display-flex">
